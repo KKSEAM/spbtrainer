@@ -1,4 +1,4 @@
-# `Hypixel Speed Builders Trainer` by [ilovelifethankyou](https://discord.com/users/ilovelifethankyou) on Discord
+# `Hypixel Speed Builders Trainer` by [ilovelifethankyou](https://discordapp.com/users/633800083678167050) on Discord
 - For Fabric 1.21.4
 - Requires [Fabric API](https://modrinth.com/mod/fabric-api)
 - Not intended for Multiplayer functionallity
@@ -12,7 +12,7 @@
 [![Badge](https://img.shields.io/badge/ilovelifethankyou-8a2be2?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=%23000000&color=%23000000&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com%2Fusers%2Filovelifethankyou
 )](https://discord.com/users/ilovelifethankyou)  For any questions, Issues, or concerns.
 
-Thank you [dix0o](https://users/dix0o) on Discord / `SAL4F` on Hypixel for providing many of the builds!
+Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord / `SAL4F` on Hypixel for providing many of the builds!
 
 ## Features
 - **`Practice all 350 Hypixel builds`** - All builds as of `August 3rd, 2025` are included
