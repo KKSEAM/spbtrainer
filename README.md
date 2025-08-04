@@ -8,6 +8,8 @@
   WORLD SETUP VIDEO
   PLAY VIDEO
   WORLD DOWNLOAD
+  list with all schematic names
+  notable builds sections
 
 [![Badge](https://img.shields.io/badge/ilovelifethankyou-8a2be2?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=%23000000&color=%23000000&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com%2Fusers%2Filovelifethankyou
 )](https://discord.com/users/ilovelifethankyou)  For any questions, Issues, or concerns.
