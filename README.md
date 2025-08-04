@@ -2,11 +2,17 @@
 - For Fabric 1.21.4
 - Requires [Fabric API](https://modrinth.com/mod/fabric-api)
 - Not intended for Multiplayer functionallity
+- Extermely easy world setup needed, or alternitively download the world [here](world download)
+
+  TODOLIST
+  WORLD SETUP VIDEO
+  PLAY VIDEO
+  WORLD DOWNLOAD
 
 [![Badge](https://img.shields.io/badge/ilovelifethankyou-8a2be2?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=%23000000&color=%23000000&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com%2Fusers%2Filovelifethankyou
 )](https://discord.com/users/ilovelifethankyou)  For any questions, Issues, or concerns.
 
-DIXO
+Thank you [dix0o](https://users/dix0o) on Discord / `SAL4F` on Hypixel for providing many of the builds!
 
 ## Features
 - **`Practice all 350 Hypixel builds`** - All builds as of `August 3rd, 2025` are included
@@ -19,6 +25,7 @@ DIXO
 
 #### `Buildmode` - Creative powers with limited blocks, also restricts breaking and placing blocks outside of the platform
 #### `Grindmode` - Skips the build preview and enables replenishing blocks in order to keep practicing your time
+#### Builds are formatted with no spaces and no capitals ex: `castleonahill`, `coin`, `battleaxe`, `moustache`, `fishingrod`, `panda`
 
 ## Commands
 - `/spb config` - Shows configuration in chat with interactable buttons
@@ -39,3 +46,6 @@ DIXO
 )](https://discord.com/users/ilovelifethankyou)  For any questions, Issues, or concerns.
 
 # World Setup
+**Superflat with `The Void` preset. Once you're in your world run `/spb setup`**
+
+<img src="./worldsetup.gif"/>
