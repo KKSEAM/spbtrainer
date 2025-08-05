@@ -17,7 +17,7 @@
 Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord / `SAL4F` on Hypixel for providing many of the builds!
 
 ## Features
-- **`Practice all 350 Hypixel builds`** - All builds as of `August 3rd, 2025` are included
+- **`Practice all 350+ Hypixel builds`** - All builds as of `August 3rd, 2025` are included
 - **`Realistic Functionality`** - Mimics Hypixel's features
 - **`Grind Mode`** - Skips the build preview and enables replenishing blocks in order to keep practicing your time
 - **`Time Recorder`** - Your times are recorded locally in `spbtrainer.json` within your config folder
