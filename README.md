@@ -3,7 +3,7 @@
 ### Notices
 - For Fabric 1.21.4
 - Requires [Fabric API](https://modrinth.com/mod/fabric-api)
-- Not intended for multiplayer functionallity, but you CAN log into servers with it safely just dont use any of the commands.
+- Not intended for multiplayer functionallity, but you CAN log into servers with it safely just dont use any `/spb` commands
 - Extermely easy world setup needed! (`/spb setup`)
 ### Builds are formatted with no spaces and no capitals ex: `castleonahill`, `coin`, `battleaxe`, `moustache`, `fishingrod`, `panda`
 
@@ -18,7 +18,7 @@
 - **`Grind Mode`** - Skips the build preview and enables replenishing blocks in order to keep practicing your time
 - **`Time Recorder`** - Your times are recorded locally in `spbtrainer.json` within your config folder
 - **`Customizble Keybinds`** - Clear build area `Grave Key` and Restart `F6` are deafults
-- **`Advanced Automatic World Setup`** - See below, or this [video](youtube)
+- **`Advanced Automatic World Setup`** - Instantly setup your woreld with `/spb setup`
 - **`Randomized Layout`** - Builds with set hotbars will be added soone ex:`colors` or `painting vertical`
 
 ### `Buildmode` - Creative powers with limited blocks, also restricts breaking and placing blocks outside of the platform
