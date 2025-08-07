@@ -49,6 +49,9 @@
 
 <img src="./worldsetup.gif"/>
 
+# Known Issues
+- Signs don't instant place - text input needs to be removed
+
 # Coming soon
 - `/spb game` - Mimics a game of SPB, 2 simple, 2, easy, medium, hard, insane
 
