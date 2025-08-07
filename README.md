@@ -5,7 +5,8 @@
 - Requires [Fabric API](https://modrinth.com/mod/fabric-api)
 - Not intended for multiplayer functionallity, but you CAN log into servers with it safely just dont use any `/spb` commands
 - Extermely easy world setup needed! (`/spb setup`)
-### Builds are formatted with no spaces and no capitals ex: `castleonahill`, `coin`, `battleaxe`, `moustache`, `fishingrod`, `panda`
+### Builds are formatted with no spaces and no capitals ex: `castleonahill`! ex: `/spb grind castleonahill` or `/spb kitchen`
+
 
 - Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord | `SAL4F` on Hypixel for providing many of the builds!
 
