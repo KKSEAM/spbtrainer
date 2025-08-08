@@ -60,12 +60,11 @@ Hypixel Speed Builders trainer. View, practice, and grind time on all of Hypixel
 
 # Known Issues
 - Signs don't leave inventory on `bus` build
-- Builds such as `colors` don't have set hotbars
-- Hard build `torch` is missing
+- Some builds don't have set hot bars yet(please dm me builds with set hotbars!)
 
 # Coming soon
 - `/spb game` - Mimics a game of SPB, 2 simple, 2, easy, medium, hard, insane
-- Set hotbars for builds
+- More set hotbars for builds that have them
 
 # Testers and Thanks
 - Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord | `SAL4F` on Hypixel for providing many of the builds!
