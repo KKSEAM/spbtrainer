@@ -3,11 +3,11 @@ for Fabric 1.21.1 & Fabric 1.21.4
 ## by [ilovelifethankyou](https://discordapp.com/users/633800083678167050) on Discord | `SteveHarvey_IRL` on Hypixel
 ### Notices
 - Requires [World Edit](https://modrinth.com/plugin/worldedit)
-  - Version 1.21.1 - `World Edit 7.3.8`
-  - Version 1.21.4 - `World Edit 7.3.11`
+  - Version 1.21.1 - `World Edit 7.3.8` [Quick Link](https://modrinth.com/plugin/worldedit/versions?loader=fabric&version=1.21.1#download)
+  - Version 1.21.4 - `World Edit 7.3.11` [Quick Link](https://modrinth.com/plugin/worldedit/versions?loader=fabric&version=1.21.4#download)
 - Requires [Fabric API](https://modrinth.com/mod/fabric-api)
-  - Version 1.21.1 - `Fabric API 0.116.4`
-  - Version 1.21.4 - `Fabric API 0.119.3`
+  - Version 1.21.1 - `Fabric API 0.116.4` [Quick Link](https://modrinth.com/mod/fabric-api?version=1.21.1#download)
+  - Version 1.21.4 - `Fabric API 0.119.3` [Quick Link](https://modrinth.com/mod/fabric-api?version=1.21.4#download)
 - Not intended for multiplayer functionallity, but you CAN log into servers with it safely just dont use any `/spb` commands
 - Extremely easy world setup needed! (`/spb setup`)
 - Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord | `SAL4F` on Hypixel for providing many of the builds!
