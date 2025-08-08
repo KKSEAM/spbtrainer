@@ -12,6 +12,7 @@ for Fabric 1.21.1 & Fabric 1.21.4 - More to come
 - Extremely easy world setup needed! (`/spb setup`)
 ### - Builds are formatted with no spaces and no capitals ex: `castleonahill`
 ### - Command Usage: `/spb grind castleonahill` or `/spb kitchen`
+### - [Hypixel Builds Spreadsheet](https://docs.google.com/spreadsheets/d/1fSd1hopLb59BqAY-T0gyVs8ceevx1QD36Xqu-oSHJBA/edit?usp=sharing)
 
  [![Badge](https://img.shields.io/badge/ilovelifethankyou-8a2be2?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=%23000000&color=%23000000&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.com%2Fusers%2Filovelifethankyou
 )](https://discordapp.com/users/633800083678167050)  For any questions, issues, or concerns.
@@ -29,7 +30,6 @@ for Fabric 1.21.1 & Fabric 1.21.4 - More to come
 
 ### `Buildmode` - Creative powers with limited blocks, also restricts breaking and placing blocks outside of the platform
 ### `Grindmode` - Skips the build preview and enables replenishing blocks in order to keep practicing your time
-### - [Hypixel Builds Spreadsheet](docs.google.com)
 
 ## Commands
 - `/spb config` - Shows configuration in chat with interactable buttons
