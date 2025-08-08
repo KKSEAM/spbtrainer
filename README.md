@@ -1,5 +1,7 @@
 # Hypixel Speed Builders Trainer 
 Hypixel Speed Builders trainer. View, practice, and grind time on all of Hypixel's 350+ builds in your own world. Compatible with **Fabric 1.21.1 & Fabric 1.21.4** - More versions to come
+
+Not affiliated with the Hypixel network
 ## by [ilovelifethankyou](https://discordapp.com/users/633800083678167050) on Discord | `SteveHarvey_IRL` on Hypixel
 ### Notices
 - Requires [World Edit](https://modrinth.com/plugin/worldedit)
