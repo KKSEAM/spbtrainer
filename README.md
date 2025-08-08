@@ -1,5 +1,5 @@
 # Hypixel Speed Builders Trainer 
-for Fabric 1.21.1 & Fabric 1.21.4
+for Fabric 1.21.1 & Fabric 1.21.4 - More to come
 ## by [ilovelifethankyou](https://discordapp.com/users/633800083678167050) on Discord | `SteveHarvey_IRL` on Hypixel
 ### Notices
 - Requires [World Edit](https://modrinth.com/plugin/worldedit)
@@ -10,8 +10,6 @@ for Fabric 1.21.1 & Fabric 1.21.4
   - Version 1.21.4 - `Fabric API 0.119.3` [Quick Link](https://modrinth.com/mod/fabric-api?version=1.21.4#download)
 - Not intended for multiplayer functionallity, but you CAN log into servers with it safely just dont use any `/spb` commands
 - Extremely easy world setup needed! (`/spb setup`)
-- Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord | `SAL4F` on Hypixel for providing many of the builds!
-- Thanks [aembr](https://discordapp.com/users/170692060158885889) on Discord | `Yria` on Hypixel for creating a beautiful README that inspired this one, and for the amazing [GuessTheUtils](https://modrinth.com/mod/guesstheutils) mod!
 ### - Builds are formatted with no spaces and no capitals ex: `castleonahill`
 ### - Command Usage: `/spb grind castleonahill` or `/spb kitchen`
 
@@ -31,6 +29,7 @@ for Fabric 1.21.1 & Fabric 1.21.4
 
 ### `Buildmode` - Creative powers with limited blocks, also restricts breaking and placing blocks outside of the platform
 ### `Grindmode` - Skips the build preview and enables replenishing blocks in order to keep practicing your time
+### - [Hypixel Builds Spreadsheet](docs.google.com)
 
 ## Commands
 - `/spb config` - Shows configuration in chat with interactable buttons
@@ -42,7 +41,7 @@ for Fabric 1.21.1 & Fabric 1.21.4
 - `/spb restart` - Resets/clears the build, area, replenishes blocks, and begins a countdown to try again
   Default keybind `f6`
 - `/spb setup` - Set's up the world for the mod, make sure you're in a superflat world with the void preset, and commands enabled!
-- `/spb create <build>` - Creates a build for whatever is in the build area
+- `/spb create <build>` - Creates a custom build for whatever is on the platform
 - `/spb delete <build>` - Deletes your custom build
 - `/spb list` - Shows your custom builds
 - `/spb area` - Displays a message containing the build area
@@ -61,15 +60,18 @@ for Fabric 1.21.1 & Fabric 1.21.4
 
 # Known Issues
 - Signs don't leave inventory on `bus` build
-- build like `colors` don't have set hotbars
+- Builds such as `colors` don't have set hotbars
+- Hard build `torch` is missing
 
 # Coming soon
 - `/spb game` - Mimics a game of SPB, 2 simple, 2, easy, medium, hard, insane
 - Set hotbars for builds
 
-# Testers
-- HanaHippo 
+# Testers and Thanks
+- Thank you [dix0o](https://discordapp.com/users/775037062247350272) on Discord | `SAL4F` on Hypixel for providing many of the builds!
+- Thanks [aembr](https://discordapp.com/users/170692060158885889) on Discord | `Yria` on Hypixel for creating a beautiful README that inspired this one, and for the amazing [GuessTheUtils](https://modrinth.com/mod/guesstheutils) mod!
+- HanaHippo on Hypixel
 ## TO-DO LIST
- - better preview video
- - list with all schematic names
- - notable builds sections
+ - Preview Video
+ - Hypixel Builds Spreadsheet
+ - Notable Builds within spreadsheet
