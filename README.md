@@ -19,6 +19,7 @@ Not affiliated with the Hypixel Network.
   - `F6` - Restart
 - **Custom Builds Support** - Create and practice your own custom builds
 - **Randomized Layout** - Builds with set hotbars will be added soon, e.g., `colors` or `painting vertical`
+- **Builds Spreadsheet** - All Hypixel builds listed, as well as extra information. It can be found [here](https://docs.google.com/spreadsheets/d/1fSd1hopLb59BqAY-T0gyVs8ceevx1QD36Xqu-oSHJBA/edit?usp=sharing)
 ## Usage
 ### Dependencies
 Before installing this mod, make sure you have the following mods installed:
@@ -136,6 +137,8 @@ A: Please DM `ilovelifethankyou` on Discord builds with set hotbars that aren't 
 ## Testers and Thanks
 - Thank you `DIX0` on Hypixel for providing many of the builds!
 - Thank you `HanaHippo` on Hypixel
+- Thank you `aembr` on Discord | `aembur` on GitHub for proofreading and restructuring README
+  - And their amazing [GuessTheUtils](https://modrinth.com/project/49W6BOju) mod!
   
 ## To-Do List
 - Preview Video
