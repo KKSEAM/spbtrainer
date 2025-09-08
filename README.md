@@ -80,11 +80,12 @@ Before installing this mod, make sure you have the following mods installed:
 
 ### World Setup
 1. `Singleplayer` &rarr; `Create New World`
-2. Set `Allow Commands` to **ON**
-3. In the `World` tab, set `World Type` to **Superflat**
-4. `Customize` &rarr; `Presets` &rarr; `The Void` (it will work without this, but you may have mob spawns, and it won't look as pretty)
-5. `Create New World`
-6. Once you're in the world, run `/spb setup`
+2. Set `Game Mode` to **Creative**
+3. Set `Allow Commands` to **ON**
+4. In the `World` tab, set `World Type` to **Superflat**
+5. `Customize` &rarr; `Presets` &rarr; `The Void` (it will work without this, but you may have mob spawns, and it won't look as pretty)
+6. `Create New World`
+7. Once you're in the world, run `/spb setup`
 
 ### Commands
 *Important: Build names are formatted with no spaces and no capitals, e.g., `castleonahill`*
